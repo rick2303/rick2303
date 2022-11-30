@@ -8,4 +8,4 @@ Here my [instagram](https://www.instagram.com/_rick2303/) feel like contact to m
 - 📚 I’m currently learning web development    
 - ⚡ Fun fact: I play a lot of games, and my favorite one is Warzone   
 - <img width="15px" src="https://proinfluent.b-cdn.net/wp-content/uploads/2021/11/Icone-LinkedIn-officiel-635x540.png"
-alt="logo linkedin"> [Linkedin](https://www.linkedin.com/in/franky-ricardo-interiano-garcia-871446243/)
+alt="logo linkedin"> [Linkedin](https://www.linkedin.com/in/franky-interiano-info/)
