@@ -1,6 +1,6 @@
 ### Backend developer and Data analyst.😄
-Hi, i'm Franky Interiano, I'm 21 years old and i would like to learn new things as possible. 
-I am graduated from the UNAH systems engineering degree, oriented to web development, databases and data analysis.
+Hi, i'm Franky Interiano, I'm 22 years old and i would like to learn new things as possible. 
+I am graduated from the UNAH systems engineering degree, oriented to web development, databases and data analysis. I have experience in the banking sector with Oracle databases on high-impact projects and integrating collections with third parties.
 
 
 # 🌐 Socials:
